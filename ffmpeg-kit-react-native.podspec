@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/juliendevleeschauwer/ffmpeg-kit-react-native.git", :tag => "react.native.v#{s.version}" }
 
-  s.default_subspec   = 'full'
+  s.default_subspec   = 'https'
 
   s.dependency "React-Core"
 
