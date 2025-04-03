@@ -29,7 +29,8 @@
   "files": [
     "src",
     "ios",
-    "ffmpeg-kit-ios-full"
+    "ffmpeg-kit-ios-full",
+    "android"
   ],
   "devDependencies": {
     "@commitlint/config-conventional": "^17.7.0",
