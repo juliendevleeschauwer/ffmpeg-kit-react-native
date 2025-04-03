@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
 
   s.default_subspec   = 'https'
 
+  
   s.dependency "React-Core"
 
   s.subspec "full" do |ss|
